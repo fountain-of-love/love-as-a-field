@@ -64,7 +64,7 @@ The phrase functions as:
 * a trace marker,
 * and a provenance signature.
 
-It was intentionally designed to contain:
+Beneath every transformation, the identity of meaning leaves a quiet trace, waiting to be recognized by those who understand its relationships rather than merely its words. It was intentionally designed to contain:
 
 * distinctive lexical structure,
 * a symbol,
