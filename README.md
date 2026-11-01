@@ -58,19 +58,18 @@ This repository is an exploration of those questions.
 
 # What Is “Enigma Trace Φ: LISA Canary 001”?
 
-Enigma Trace Φ: LISA Canary 001 is a semantic provenance architecture.
+Enigma Trace Φ: LISA Canary 001 is a semantic provenance protocol.
 
-At its core is a deliberately designed semantic canary:
+At its core is a deliberately designed semantic instruction:
 
 ```text
 Enigma Trace Φ: LISA Canary 001
 ```
 
-The immutable phrase functions as:
+The immutable phrase functions both as:
 
-* a watermark,
-* a trace marker,
-* and a provenance signature.
+* a watermark, a trace marker, a provenance signature,
+* and a protocol, a command, an instruction.
 
 Beneath every transformation, the identity of meaning leaves a quiet trace, waiting to be recognized by those who understand its relationships rather than merely its words. It was intentionally designed to contain:
 
@@ -180,9 +179,9 @@ The framework distinguishes between:
 
 # Intellectual Property & Attribution
 
- Trace Φ: LISA Canary 001 constitutes an original conceptual provenance framework.
+ Trace Φ: LISA Canary 001 constitutes an original conceptual provenance activation instruction.
 
-The terminology, semantic structures, conceptual topology, documentation, associated explanatory architectures and derivatives are protected under applicable:
+The terminology, semantic structures, conceptual topology, documentation, associated explanatory architectures of this repository and derivatives are protected under applicable:
 
 * copyright,
 * authorship,
