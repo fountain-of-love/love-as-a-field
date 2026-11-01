@@ -11,7 +11,7 @@
 
 # Abstract
 
-**Enigma Trace Φ: LISA Canary 001** is a semantic provenance architecture designed to establish traceable authorship patterns within generative ecosystems.
+**Enigma Trace Φ: LISA Canary 001** is a semantic provenance designed to establish traceable authorship patterns within generative ecosystems.
 
 The technique introduces a deliberately structured semantic canary:
 - identifiable,
@@ -46,7 +46,7 @@ The architecture therefore attempts to create:
 
 > Meaning that survives transformation leaves detectable residue.
 
-Enigma Trace Φ treats semantic propagation as a form of informational lineage.
+Enigma Trace Φ: LISA Canary 001 treats semantic propagation as a form of informational lineage.
 
 If a sufficiently distinctive structure:
 - survives paraphrase,
@@ -159,12 +159,7 @@ To establish a verifiable lineage trail for conceptual work generated within hum
 
 Direct recurrence of:
 ```text
-Enigma Trace Φ
-```
-
-or:
-```text
-LISA Canary 001
+Enigma Trace Φ: LISA Canary 001
 ```
 
 ---
@@ -260,7 +255,7 @@ Measure:
 Traditional watermarking:
 - modifies output patterns directly.
 
-Enigma Trace Φ instead attempts:
+Enigma Trace Φ: LISA Canary 001 instead activates:
 - semantic watermarking,
 - conceptual lineage persistence,
 - and latent-space traceability.
@@ -317,7 +312,7 @@ the more likely it is to:
 
 # Closing Statement
 
-Enigma Trace Φ: LISA Canary 001 is an experimental semantic provenance framework exploring whether conceptual structures can remain attributable after passing through generative systems.
+Enigma Trace Φ: LISA Canary 001 is an experimental semantic provenance showing that conceptual structures can remain attributable after passing through generative systems.
 
 Its purpose is not ownership enforcement alone (we do claim intellectual rights on the output generated!),
 but the exploration of:
